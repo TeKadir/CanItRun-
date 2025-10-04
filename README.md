@@ -1,2 +1,12 @@
-# CanItRun-
-RunAble, bilgisayar donanımını analiz ederek en uygun oyunları öneren akıllı bir sistemdir.  RunAble is an intelligent system that analyzes computer hardware and recommends the most suitable games.
+# CanıtRun 🎮
+
+Bu proje, bilgisayar donanımına göre en uygun oyunları öneren bir web sistemidir.
+
+**Teknolojiler:**
+- HTML
+- CSS
+- (İleride JS eklenebilir)
+
+**Yapımcı:** Aziz Kadir
+
+**Kullanım:** GitHub Pages üzerinden erişilebilir.
